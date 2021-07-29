@@ -18,5 +18,11 @@
   "homepage": "https://github.com/tomhabt/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^27.0.6"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.2"
   }
 }
